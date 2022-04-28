@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.render {
+  align-self: center;
+  justify-content: center;
+  display: flex;
+  border: 1px solid;
+  background-color: #a5afae;
+  margin: 15px;
+  color: rgb(97, 97, 226);
+}
+.btn-primary {
+  margin: 25px;
+
+}
+
